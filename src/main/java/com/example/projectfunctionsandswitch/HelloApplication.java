@@ -1,19 +1,18 @@
 package com.example.projectfunctionsandswitch;
 
-import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Scene;
-import javafx.stage.Stage;
-
-import java.io.IOException;
 import java.util.Scanner;
+
 public class HelloApplication  {
 
-public static void print(String data){
+    public static double integerCosine(int numberToCosine){
+
+    return Math.cos(numberToCosine);
+    }
+    public static void print(String data){
     System.out.println(data);
 }
     public static int sumTwoNumbers(int Whole1, int Whole2){
-        Scanner keyboard= new Scanner(System.in);
+
 return  Whole1+Whole2 ;
     }
 
@@ -40,9 +39,10 @@ return  Whole1+Whole2 ;
            print("The word: "+word);
                break;
            case "c":
-
-
-
+           System.out.println("Enter the number you wish to know its cosine");
+           int numberToCosine=0;
+           numberToCosine=keyboard.nextInt();
+           print("The cosine in radians is:"+Math.cos(numberToCosine));
 
                break;
 
