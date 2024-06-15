@@ -25,7 +25,7 @@ Create a program that does the following.
 
 Which language uses the most libraries or third party packages?</p> 
 The language that uses the most third-party libraries or packages is JavaScript, especially due to the vast amount of packages available on npm (Node Package Manager). This is due to the popularity of JavaScript in both frontend and backend development, driving an active community that constantly creates and maintains numerous packages for various functionalities.
-*Screenshots of the program
+<p>*Screenshots of the program</p>
 .Image 1
 <img src="https://github.com/Marchelo2005/projectfunctionsandswitch/blob/main/img/img1.png" width="100%">
 .Image 2
@@ -50,7 +50,5 @@ New methodologies, functions, cases, integer variables, variable, are characters
 
 My project stands out in the collaboration that we had at the time of realizing it this in order to do it in record time and also communicating with the collaborators. 
 
-Screenshots with the program running:
-##
 <p align="center"><sup>© 2016-2019 NVIDIA | </sup><a href="#deploying-deep-learning"><sup>Table of Contents</sup></a></p>
 
